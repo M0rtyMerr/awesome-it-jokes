@@ -26,7 +26,7 @@ Serious tech-talk with a funny picture of cat on one slide in the middle won't b
 Twitter account which accidentally published one funny meme about IT and then continue shit-posting won't be accepted.
 
 
-### Content
+# Content
 - [Acceptance Criteria](#acceptancecriteria)
 - [Articles](#articles)
 - [Github projects](#github)
