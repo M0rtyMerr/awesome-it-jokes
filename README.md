@@ -45,6 +45,7 @@ Twitter account which accidentally published one funny meme about IT and then co
 
 ## History
 
+- :ru:[Ebanoe IT](https://ebanoe.it/) - resource where you can find different stories about internal Russian IT dark world. Funny and sad. For instance: [New day in EPAM](https://ebanoe.it/2017/04/05/new-day-in-epam/)
 - :ru:[Tinkoff meme case](https://vc.ru/finance/42686-tinkoff-bank-uvolil-neskolko-sotrudnikov-za-narushenie-eticheskih-norm) - employees were fired for posting memes in channel
 
 ## Videos
