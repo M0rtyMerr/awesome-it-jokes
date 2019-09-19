@@ -30,6 +30,7 @@ Twitter account which accidentally published one funny meme about IT and then co
 - [Acceptance Criteria](#acceptancecriteria)
 - [Articles](#articles)
 - [Github projects](#github)
+- [History](#history)
 - [Videos](#videos)
 - [Poetry](#poetry)
 - [Twitter accounts](#twitteraccounts)
@@ -40,6 +41,11 @@ Twitter account which accidentally published one funny meme about IT and then co
 ## Github projects
 
 - [nocode](https://github.com/kelseyhightower/nocode) - the best way to write secure and reliable applications. Write nothing; deploy nowhere
+- [PIDOR architecture](https://devhub.io/repos/ApplePride-PIDOR) - parody of VIPER. Sadly [repo was deleted](https://pikabu.ru/story/chto_sluchilos_s_pidor_5304460) after complaints from not so clever man. But we still remember... [Copy for Android](https://github.com/dron247/PIDOR-Android)
+
+## History
+
+- :ru:[Tinkoff meme case](https://vc.ru/finance/42686-tinkoff-bank-uvolil-neskolko-sotrudnikov-za-narushenie-eticheskih-norm) - employees were fired for posting memes in channel
 
 ## Videos
 
