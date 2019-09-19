@@ -4,7 +4,7 @@ A curated list of awesome IT jokes (videos, songs, articles, Github projects, tw
 
 ## Motivation
 
-IT community usually creates new "awesome-*something*" repository for each new language or platform.
+IT community usually creates new ["awesome-*something*"](https://github.com/search?q=awesome) repository for each new language or platform.
 We love having highlighted list of exciting tools created during our history. 
 Just to share with a newbie or choose something to play around during the weekends.
 Sadly we forgot about the funny side of our work. 
