@@ -59,7 +59,7 @@ Twitter account which accidentally published one funny meme about IT and then co
 
 ## Poetry
 
-- :ru:[Productshniki](https://youtu.be/7JyUveiFu9g) - Russian song about production developers from DotNext
+- :ru:[Producshniki](https://youtu.be/7JyUveiFu9g) - Russian song about production developers from DotNext
 - :ru:[Programmer's requiem](https://youtu.be/Qypw6ho5wGQ) - poetry about complicated programmer's life on Joker stage
 - [I Use Couch DB](https://vimeo.com/11852209) - song about love to CouchDB
 - [Enterprise Waterfall](https://youtu.be/ucHE7REWvEo) - a musical parody of "Another Brick in the Wall" by Pink Floyd
