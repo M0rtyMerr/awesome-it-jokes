@@ -1,6 +1,6 @@
 # Awesome IT jokes
 
-A curated list of awesome IT jokes (videos, songs, articles, Github projects, twitter accounts).
+A curated list of awesome IT jokes (videos, songs, articles, Github projects, Twitter accounts).
 
 ## Motivation
 
