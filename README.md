@@ -5,21 +5,20 @@ A curated list of awesome IT jokes (videos, songs, articles, Github projects, Tw
 ## Motivation
 
 IT community usually creates new ["awesome-*something*"](https://github.com/search?q=awesome) repository for each new language or platform.
-We love having highlighted list of exciting tools created during our history. 
-Just to share with a newbie or choose something to play around during the weekends.
-Sadly we forgot about the funny side of our work. 
+We love having a hand-picked list of exciting tools created since time immemorial.
+Why? Just to share with a newbie or to choose something to play around with during the weekends.
+Sadly up to now we forgot about the funny side of our work. 
 
 There is a specific sense of humor, which probably could be understood only by true programmers. 
-Artifacts of it are hidden all around the internet, in personal blogs or conferences youtube channel.
-The purpose of this repo is storing all of them in one place.
-Just to show new people that we can be funny and we usually do.
+Artifacts of it are hidden all around the internet, in personal blogs or conferences' youtube channel.
+The purpose of this repo is having them all in one place.
 
 ## Acceptance Criteria
 
-Humour is a subjective thing, so any discussion about "was _REALLY_ it funny" in PRs are not allowed.
-Feel free to contribute anything that corresponds with the following rules:
+Humour is a subjective thing, so any discussion about "was it _REALLY_ funny" in PRs are not allowed.
+Feel free to contribute anything that obeys the following rules:
 
-- #### Content should be created with the only purpose - make somebody smile
+- #### Content should be created with one and only purpose - to make somebody smile
 - #### Content should be about IT-specific topic or at least use IT terms
 
 Serious tech-talk with a funny picture of cat on one slide in the middle won't be accepted.
