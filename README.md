@@ -56,6 +56,8 @@ Twitter account which accidentally published one funny meme about IT and then co
 - [Coding Bad](https://youtu.be/DGa6MAibjzA) - JavaZone parody of Breaking Bad
 - [Boston Dynamics: New Robots Now Fight Back](https://youtu.be/dKjCWfuvYxQ) - Boston Dynamics prediction about nearest future
 - [Wat - Destroy All Software Lightning Talk](https://archive.org/details/wat_destroyallsoftware) - good old classic jokes about `[] + []` in JS
+- [Trust me, I’m an engineer!](https://www.youtube.com/watch?v=rp8hvyjZWHs) - Good ol' engeneering song
+- [Here Comes Another Bubble](https://www.youtube.com/watch?v=I6IQ_FOCE6I) - Song about Silicon Valley's tech bubbles on the tune of the Billy Joel’s We Didn’t Start the Fire
 
 ## Poetry
 
