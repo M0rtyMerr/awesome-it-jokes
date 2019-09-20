@@ -55,6 +55,7 @@ Twitter account which accidentally published one funny meme about IT and then co
 - [Java Forever And Ever Movie](https://youtu.be/RnqAXuLZlaE) - funny video based on the Microsoft .net platform vs Java
 - [Coding Bad](https://youtu.be/DGa6MAibjzA) - JavaZone parody of Breaking Bad
 - [Boston Dynamics: New Robots Now Fight Back](https://youtu.be/dKjCWfuvYxQ) - Boston Dynamics prediction about nearest future
+- [Wat - Destroy All Software Lightning Talk](https://archive.org/details/wat_destroyallsoftware) - good old classic jokes about `[] + []` in JS
 
 ## Poetry
 
