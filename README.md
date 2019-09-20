@@ -36,6 +36,7 @@ Twitter account which accidentally published one funny meme about IT and then co
 
 ## Articles
 - :ru:[Shitty technologies](https://vas3k.ru/inside/35/) - article about current strange state of IT sphere
+- [Vanilla JS](http://vanilla-js.com/) - fast, lightweight, cross-platform framework for building JavaScript applications (0 bytes uncompressed, 25 bytes gzipped)
 
 ## Github projects
 
