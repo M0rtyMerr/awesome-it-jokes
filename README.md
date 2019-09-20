@@ -58,6 +58,7 @@ Twitter account which accidentally published one funny meme about IT and then co
 - [Wat - Destroy All Software Lightning Talk](https://archive.org/details/wat_destroyallsoftware) - good old classic jokes about `[] + []` in JS
 - [Trust me, I’m an engineer!](https://www.youtube.com/watch?v=rp8hvyjZWHs) - Good ol' engineering song
 - [Here Comes Another Bubble](https://www.youtube.com/watch?v=I6IQ_FOCE6I) - Song about Silicon Valley's tech bubbles on the tune of the Billy Joel’s We Didn’t Start the Fire
+- [Medieval helpdesk](https://youtu.be/pQHX-SjgQvQ)
 
 ## Poetry
 
