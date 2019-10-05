@@ -26,13 +26,13 @@ Twitter account which accidentally published one funny meme about IT and then co
 
 
 # Content
-- [Acceptance Criteria](#acceptancecriteria)
+- [Acceptance Criteria](#acceptance-criteria)
 - [Articles](#articles)
-- [Github projects](#github)
+- [Github projects](#github-projects)
 - [History](#history)
 - [Videos](#videos)
 - [Poetry](#poetry)
-- [Twitter accounts](#twitteraccounts)
+- [Twitter accounts](#twitter-accounts)
 
 ## Articles
 - :ru:[Shitty technologies](https://vas3k.ru/inside/35/) - article about current strange state of IT sphere
