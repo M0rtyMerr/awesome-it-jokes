@@ -73,3 +73,4 @@ Twitter account which accidentally published one funny meme about IT and then co
 ## Twitter accounts
 
 - :apple:[A meme page to check while Xcode is indexing files](https://twitter.com/ios_memes) - actually the name of this account express its purpose better than any comments
+- [Cassidy Williams](https://twitter.com/cassidoo) - adorable videos about dev life
