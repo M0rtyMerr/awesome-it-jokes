@@ -42,6 +42,7 @@ Twitter account which accidentally published one funny meme about IT and then co
 
 - [nocode](https://github.com/kelseyhightower/nocode) - the best way to write secure and reliable applications. Write nothing; deploy nowhere
 - [PIDOR architecture](https://devhub.io/repos/ApplePride-PIDOR) - parody of VIPER. Sadly [repo was deleted](https://pikabu.ru/story/chto_sluchilos_s_pidor_5304460) after complaints from not so clever man. But we still remember... [Copy for Android](https://github.com/dron247/PIDOR-Android)
+- [ASCII 3D engine](https://thenextweb.com/shareables/2019/09/19/asciicker-ascii-3d-game-text/) - in pure javascript
 
 ## History
 
