@@ -62,6 +62,7 @@ Twitter account which accidentally published one funny meme about IT and then co
 - [Here Comes Another Bubble](https://www.youtube.com/watch?v=I6IQ_FOCE6I) - Song about Silicon Valley's tech bubbles on the tune of the Billy Joel’s We Didn’t Start the Fire
 - [Medieval helpdesk](https://youtu.be/pQHX-SjgQvQ)
 - [Building a cloud for my Superboard II with Python3](https://youtu.be/pB2t6xG2RzE) - David Beazley shows how he built full operational cloud with old-as-hell machine as a server (Python3 used, but understandable for everybody)
+- [IT standup](https://www.youtube.com/watch?v=2pYEUyMGqPI) - jokes about IT
 
 ## Poetry
 
