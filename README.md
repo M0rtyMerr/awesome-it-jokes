@@ -64,6 +64,7 @@ Twitter account which accidentally published one funny meme about IT and then co
 - [Building a cloud for my Superboard II with Python3](https://youtu.be/pB2t6xG2RzE) - David Beazley shows how he built full operational cloud with old-as-hell machine as a server (Python3 used, but understandable for everybody)
 - [IT standup](https://www.youtube.com/watch?v=2pYEUyMGqPI) - jokes about IT
 - [Every programming tutorial](https://youtu.be/MAlSjtxy5ak)
+- :ru:[Slap shit together and deploy] (https://www.youtube.com/watch?v=ir5rj2yYH_8)
 
 ## Poetry
 
