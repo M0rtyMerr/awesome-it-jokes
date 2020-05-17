@@ -33,6 +33,7 @@ Twitter account which accidentally published one funny meme about IT and then co
 - [Videos](#videos)
 - [Poetry](#poetry)
 - [Twitter accounts](#twitter-accounts)
+- [Telegram channels](#telegram-channels)
 
 ## Articles
 - :ru:[Shitty technologies](https://vas3k.ru/inside/35/) - article about current strange state of IT sphere
@@ -78,3 +79,6 @@ Twitter account which accidentally published one funny meme about IT and then co
 
 - :apple:[A meme page to check while Xcode is indexing files](https://twitter.com/ios_memes) - actually the name of this account express its purpose better than any comments
 - [Cassidy Williams](https://twitter.com/cassidoo) - adorable videos about dev life
+
+## Telegram channels
+- [∏ρØƒuñçτØρ Øπτµç∑](https://t.me/profunctor_io) - intellectual meme channel about development and work in IT
